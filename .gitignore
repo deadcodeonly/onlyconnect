@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Directories
+rust_full_impl/target/*
+
